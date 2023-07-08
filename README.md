@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rakesh. @rakcurious
+- 👋 Hi, I’m Rakesh.
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning javascript and React
+- 🌱 Playing with React and Tailwind
 
 <!---
 rakcurious/rakcurious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
