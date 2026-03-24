@@ -1,4 +1,4 @@
-Product Engineer • Ex-Founder
+Product Engineer • 2x Founder
 
 <!---
 rakcurious/rakcurious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
